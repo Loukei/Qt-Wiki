@@ -4,6 +4,8 @@
 
 ## Introduction
 
+<Img src="https://raw.githubusercontent.com/Loukei/Qt-Wiki/master/HttpDownloader_Example/Demo.png" />
+
 使用Qt網路模組下載Url檔案的範例，配合`QProgressDialog`類別可以顯示網路封包的上傳/下載進度，也可以中斷下載工作。
 
 ## Note
