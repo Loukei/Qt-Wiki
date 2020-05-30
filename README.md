@@ -14,6 +14,12 @@
 
 使用Qt下載檔案的範例
 
+## QJsonModel
+
+將`.json`檔或Json格式字串轉成支援[model/view framework](https://doc.qt.io/qt-5/model-view-programming.html)
+
 ## Reference
 
 - [SimpleCrypt](https://wiki.qt.io/Simple_encryption_with_SimpleCrypt)
+
+- [QJsonModel](https://github.com/dridk/QJsonModel)

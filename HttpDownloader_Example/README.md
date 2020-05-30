@@ -55,4 +55,5 @@ if(!url.isValid()){
 ## Reference
 
 [QtDoc HTTP Example](https://doc.qt.io/qt-5/qtnetwork-http-example.html)
+
 [QprogressDialog appears at creation with Qt5.5rc](https://bugreports.qt.io/browse/QTBUG-47042)
