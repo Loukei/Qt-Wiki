@@ -1,6 +1,6 @@
 # Qt-Wiki
 
-收集各種網路上的Qt程式碼，匯集起來
+收集各種網路上的實用Qt程式碼，匯集起來
 
 ## SimpleCrypt
 
@@ -17,6 +17,16 @@
 ## QJsonModel
 
 將`.json`檔或Json格式字串轉成支援[model/view framework](https://doc.qt.io/qt-5/model-view-programming.html)
+
+## DownloadManager
+
+前一個範例HttpDownloader加強版，原先的之後會刪除
+
+## 預定
+
+- QFlag
+- D-Ptr
+- Qt smart pointer
 
 ## Reference
 
