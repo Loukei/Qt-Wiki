@@ -16,11 +16,15 @@
 
 ## QJsonModel
 
-將`.json`檔或Json格式字串轉成支援[model/view framework](https://doc.qt.io/qt-5/model-view-programming.html)
+介紹一個小工具，將`.json`檔或Json格式字串轉成支援[model/view framework](https://doc.qt.io/qt-5/model-view-programming.html)的模型，開發網路程式的原型會需要用到。
 
 ## DownloadManager
 
 前一個範例HttpDownloader加強版，原先的之後會刪除
+
+## Qt Google OAuth2 Demo
+
+簡單的使用Qt內的networkauth模組實現Google Drive OAuth2的登入。
 
 ## 預定
 
