@@ -1,3 +1,6 @@
 [submodule "Qt-Google-OAuth2-Demo"]
 	path = Qt-Google-OAuth2-Demo
 	url = https://github.com/Loukei/Qt-Google-OAuth2-Demo.git
+[submodule "Json2Qt"]
+	path = Json2Qt
+	url = https://github.com/Loukei/Json2Qt.git
